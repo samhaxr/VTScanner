@@ -84,4 +84,4 @@ VTScanner is a tool designed to enhance security by identifying potential malwar
 For inquiries, issues, or feedback, please don't hesitate to open an issue on our GitHub repository.
 Thank you for choosing VTScanner v1.0.
 
-![SXDorks](image.png)
+![SXDorks](Image.png)
