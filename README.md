@@ -43,7 +43,7 @@ VTScanner goes the extra mile by enabling users to explore VirusTotal's detailed
 
 ### 8. Preinstalled Windows Binaries
 
-For added convenience, VTScanner comes with preinstalled Windows binaries compiled using PyInstaller. These binaries are detected by 10 antivirus scanners, ensuring an initial layer of security.
+For added convenience, VTScanner comes with preinstalled Windows binaries compiled using PyInstaller. These binaries are detected by 10 antivirus scanners.
 
 ### 9. Custom Binary Generation
 
