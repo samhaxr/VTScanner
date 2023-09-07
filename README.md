@@ -1,4 +1,4 @@
-[![GitHub release](https://img.shields.io/badge/release-v1.0.0-brightgreen?style=plastic&logo=appveyor)](https://github.com/samhaxr/VTScanner/releases/tag/v1.0.0)
+[![GitHub release](https://img.shields.io/badge/release-v1.0-brightgreen?style=plastic&logo=appveyor)](https://github.com/samhaxr/VTScanner/releases/tag/1.0)
 [![GitHub stars](https://img.shields.io/github/stars/samhaxr/VTScanner?style=plastic&logo=appveyor)](https://github.com/samhaxr/VTScanner/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/samhaxr/VTScanner?style=plastic&logo=appveyor)](https://github.com/samhaxr/VTScanner/network)
 [![GitHub issues](https://img.shields.io/github/issues/samhaxr/VTScanner?style=plastic&logo=appveyor)](https://github.com/samhaxr/VTScanner/issues)
